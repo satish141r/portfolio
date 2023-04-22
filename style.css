@@ -632,7 +632,7 @@ line-height: 45px;
 .skills-container{
   position: relative;
   display: flex;
-  flex-wrap: wrap;
+  
   padding: 5rem 0;
   margin: 10rem auto;
   gap: 30px;
